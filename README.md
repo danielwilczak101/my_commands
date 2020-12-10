@@ -2,23 +2,23 @@
 This is a file that I use when programming. Its nothing more then a bunch of commands that i update. I tend to forget them so i have a text file with them in it
 
 
----------------------Git--------------------
-
-git init        // Initialize local repository
-git add <file>  // add File(s) to index
-git status      //check status if working tree
-git commit      // Commit changes in index
-git push        // Push to repository
-git pull        // Pull latest from remote repository 
-git clone       // Clone Repository into a new directory
-
-INSTALL PI
-Sudo apt-get update          // update pi
-sudo apt install git-all.    // Get all 
-
-------------Terminal commands---------------
-
-touch <Filename.txt> // Create file
+---------------------Git--------------------  
+  
+git init        // Initialize local repository. 
+git add <file>  // add File(s) to index. 
+git status      //check status if working tree. 
+git commit      // Commit changes in index. 
+git push        // Push to repository. 
+git pull        // Pull latest from remote repository.    
+git clone       // Clone Repository into a new directory. 
+  
+INSTALL PI. 
+Sudo apt-get update          // update pi. 
+sudo apt install git-all.    // Get all. 
+  
+------------Terminal commands---------------  
+  
+touch <Filename.txt> // Create file. 
 cd move directory    // move directory
 ls                   // Show directory
 mkdir <foldername>   // make a folder
