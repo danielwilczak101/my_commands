@@ -1,4 +1,17 @@
 
+-------------------Mongodb------------------
+db             // Tells you what databases there are
+use <database> // Switch into that database
+show dbs       // list the databases available
+
+db.my_collection.InsertOne( { x: 1 } ); 
+// db refers to the current database 
+// and myCollection is the name of the collection
+
+
+
+Shell Methods - https://docs.mongodb.com/manual/reference/method/
+
 ---------------------Git--------------------
 
 git init        // Initialize local repository
