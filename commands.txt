@@ -1,3 +1,9 @@
+------------------Flask--------------------
+flask run                       // run the application that is set 
+export FLASK_APP=flask_blog.py  // Set the app to the file name
+export FLASK_DEBUG=1            // Enable Debug mode to change files activly
+
+
 
 -------------------Mongodb------------------
 db             // Tells you what databases there are
