@@ -62,7 +62,8 @@ SELECT * FROM data; // Run sql command in the shell
 ------------ Vim commands ------------------
 i     // Insert
 esc   // Get out of insert
-:wq   // save
+:wq!   // save and exit
+:1,$d  // Select all and delete
 
 ------------ Nano ------------------------
 Ctrl + 0 // Save file
