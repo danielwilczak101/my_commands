@@ -1,7 +1,9 @@
+--------------------C---------------------
+gcc -o <filename> <filename.c> // compile
+./<filename>                   // run
+
 ------------------Django--------------------
 sudo /opt/bitnami/ctlscript.sh restart apache  // restart apache
-
-
 
 -------------------Mongodb------------------
 db             // Tells you what databases there are
