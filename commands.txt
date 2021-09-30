@@ -18,6 +18,14 @@ db.my_collection.InsertOne( { x: 1 } );
 
 Shell Methods - https://docs.mongodb.com/manual/reference/method/
 
+---------------------Github--------------------
+
+To add fat boy files to github.
+```bash
+git lfs track "*.<FILE TYPE>"
+git add .gitattributes
+```
+
 ---------------------Git--------------------
 
 git init        // Initialize local repository
