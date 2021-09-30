@@ -20,11 +20,7 @@ Shell Methods - https://docs.mongodb.com/manual/reference/method/
 
 ---------------------Github--------------------
 
-To add fat boy files to github.
-```bash
-git lfs track "*.<FILE TYPE>"
-git add .gitattributes
-```
+git lfs track "*.<FILE TYPE>" // To add fat boy files above 30mb to github.
 
 ---------------------Git--------------------
 
