@@ -1,6 +1,14 @@
 # my_commands
 This is a file that I use when programming. Its nothing more then a bunch of commands that i update. I tend to forget them so i have a text file with them in it
 
+### PyPI Package commands
+```
+python setup.py bdist_wheel         // If you change the setup.py
+python setup.py bdist_wheel sdist   // Build package for publishing
+twine upload dist/*                 // Upload package to PyPI
+pip install -e .                    // To install the package locally
+```
+
 ### Terminal color and python alias.
 ```bash
 alias python=python3
@@ -102,13 +110,7 @@ Crtl + x // Exit file
 https://wiki.gentoo.org/wiki/Nano/Basics_Guide // More info
 ```
 
-### PyPI Package commands
-```
-python setup.py bdist_wheel         // If you change the setup.py
-python setup.py bdist_wheel sdist   // Build package for publishing
-twine upload dist/*                 // Upload package to PyPI
-pip install -e .                    // To install the package locally
-```
+
 
 
 
