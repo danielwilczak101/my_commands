@@ -3,9 +3,12 @@ This is a file that I use when programming. Its nothing more then a bunch of com
 
 ### PyPI Package commands
 ```
-python setup.py bdist_wheel         // If you change the setup.py
 python setup.py bdist_wheel sdist   // Build package for publishing
 twine upload dist/*                 // Upload package to PyPI
+
+pip3 install --upgrade EasyNN
+
+python setup.py bdist_wheel         // If you change the setup.py
 pip install -e .                    // To install the package locally
 ```
 
