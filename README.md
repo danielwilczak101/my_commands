@@ -1,12 +1,16 @@
 # my_commands
 This is a file that I use when programming. Its nothing more then a bunch of commands that i update. I tend to forget them so i have a text file with them in it
 
+### Angular
+```
+ng generate component components/button // create button inside of components
+```
+
 ### FastAPI
 ```
 py -m uvicorn main:app --reload // run localhost
 
 ```
-
 
 ### PyPI Package commands
 ```
