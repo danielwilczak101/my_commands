@@ -9,7 +9,6 @@ ng generate component components/button // create button inside of components
 ### FastAPI
 ```
 py -m uvicorn main:app --reload // run localhost
-
 ```
 
 ### PyPI Package commands
