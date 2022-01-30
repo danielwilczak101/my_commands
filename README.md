@@ -6,8 +6,8 @@ This is a file that I use when programming. Its nothing more then a bunch of com
 ```
 python -m venv env  // Generate virtual env
 env/bin/activate // Start the virtual env
+pip3 freeze > requirements.txt // Save installed packages
 deactivate // Deactivate
-ip3 freeze > requirements.txt // Save installed packages
 ```
 
 ### Angular
