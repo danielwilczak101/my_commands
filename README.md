@@ -1,6 +1,15 @@
 # my_commands
 This is a file that I use when programming. Its nothing more then a bunch of commands that i update. I tend to forget them so i have a text file with them in it.
 
+
+### Python Virtual Env
+```
+python -m venv env  // Generate virtual env
+env/bin/activate // Start the virtual env
+deactivate // Deactivate
+ip3 freeze > requirements.txt // Save installed packages
+```
+
 ### Angular
 ```
 ng generate component components/button // create button inside of components
