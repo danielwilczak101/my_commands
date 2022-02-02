@@ -1,6 +1,20 @@
 # my_commands
 This is a file that I use when programming. Its nothing more then a bunch of commands that i update. I tend to forget them so i have a text file with them in it.
 
+### Installing my git bash style.
+```Bash
+sudo apt update;
+sudo apt install git;
+git config --global user.name "Daniel Wilczak";
+git config --global user.email "danielwilczak101@gmail.com";
+git clone <URL from github>
+git status // shows the branch status
+
+```
+
+### If i ever want to me a local git repository.
+https://bit.ly/3uhuljr
+
 
 ### Python Virtual Env
 ```
