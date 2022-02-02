@@ -8,7 +8,8 @@ sudo apt install git;
 git config --global user.name "Daniel Wilczak";              
 git config --global user.email "danielwilczak101@gmail.com"; 
 git clone <URL from github> 
-git status                  
+git status 
+git pull
 ```
 
 ### If i ever want to me a local git repository.
