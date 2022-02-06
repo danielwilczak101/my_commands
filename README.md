@@ -46,6 +46,12 @@ pip install -e .                    // To install the package locally
 ```
 
 ### Terminal color and python alias.
+
+```bash
+sudo nano ~/.zshrc
+```
+Then add:
+
 ```bash
 alias python=python3
 alias py=python3
