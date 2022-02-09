@@ -1,6 +1,13 @@
 # my_commands
 This is a file that I use when programming. Its nothing more then a bunch of commands that i update. I tend to forget them so i have a text file with them in it.
 
+### Github ssh key authentication
+```
+ssh-keygen -t rsa  // generate ssh key
+cat /home/<pc-name>/.ssh/<filename> // show the key so you can add to github
+```
+
+
 ### Installing my git bash style.
 ```Bash
 sudo apt update;
