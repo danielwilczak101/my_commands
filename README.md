@@ -1,12 +1,20 @@
 # my_commands
 This is a file that I use when programming. Its nothing more then a bunch of commands that i update. I tend to forget them so i have a text file with them in it.
 
+
+### Jupyter Notebook
+```bash
+jupyter notebook list  // Running notebooks in the background 
+jupyter notebook stop <port> // Close the notebook based on the port
+jupyter notebook --ip 0.0.0.0 --port 8080 & // Running notebook as back process and port it to local machines localhost
+```
+
+
 ### Github ssh key authentication
 ```
 ssh-keygen -t rsa  // generate ssh key
 cat /home/<pc-name>/.ssh/<filename> // show the key so you can add to github
 ```
-
 
 ### Installing my git bash style.
 ```Bash
