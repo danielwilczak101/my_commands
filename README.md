@@ -6,7 +6,7 @@ This is a file that I use when programming. Its nothing more then a bunch of com
 ```bash
 jupyter notebook list  // Running notebooks in the background 
 jupyter notebook stop <port> // Close the notebook based on the port
-jupyter notebook --ip 0.0.0.0 --port 8080 & // Running notebook as back process and port it to local machines localhost
+jupyter notebook --ip 0.0.0.0 --port 8080 & // Runn as back process & port it to local machines localhost.
 ```
 
 
