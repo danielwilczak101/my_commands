@@ -37,6 +37,8 @@ python -m venv env  // Generate virtual env
 env/bin/activate // Start the virtual env
 pip3 freeze > requirements.txt // Save installed packages
 deactivate // Deactivate
+
+pip3 install -r requirements.txt // Installing requirments
 ```
 
 ### Angular
