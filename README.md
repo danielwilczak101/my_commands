@@ -1,6 +1,12 @@
 # my_commands
 This is a file that I use when programming. Its nothing more then a bunch of commands that i update. I tend to forget them so i have a text file with them in it.
 
+### Flutter development
+```
+open -a Simulator   // Start simulator
+flutter run // Run the application
+r // reload the app with the new code
+``
 
 ### Jupyter Notebook
 ```bash
