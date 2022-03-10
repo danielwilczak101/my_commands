@@ -39,8 +39,8 @@ https://bit.ly/3uhuljr
 
 ### Python Virtual Env
 ```
-python -m venv env  // Generate virtual env
-env/bin/activate // Start the virtual env
+python -m venv <foldername>  // Generate virtual env
+source <foldername>/bin/activate // Start the virtual env
 pip3 freeze > requirements.txt // Save installed packages
 deactivate // Deactivate
 
