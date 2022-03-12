@@ -6,6 +6,7 @@ This is a file that I use when programming. Its nothing more then a bunch of com
 cd ~/development
 open -a Simulator   // Start simulator
 flutter run // Run the application
+flutter run --release // Allow the app to run detached
 r // reload the app with the new code
 ```
 
