@@ -3,6 +3,7 @@ This is a file that I use when programming. Its nothing more then a bunch of com
 
 ### Flutter development
 ```
+cd ~/development
 open -a Simulator   // Start simulator
 flutter run // Run the application
 r // reload the app with the new code
