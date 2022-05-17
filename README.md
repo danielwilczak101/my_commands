@@ -1,6 +1,17 @@
 # my_commands
 This is a file that I use when programming. Its nothing more then a bunch of commands that i update. I tend to forget them so i have a text file with them in it.
 
+### PI
+```
+
+ssh-keygen -R raspberrypi.local // Remove old pi connection from pc
+ssh pi@raspberrypi.local // connect to one and old raspberry pi on local net
+
+Sudo apt-get update          // update pi
+sudo apt install git-all.    // Get all 
+```
+
+
 ### Flutter development
 ```
 cd ~/development
@@ -126,13 +137,6 @@ git clone       // Clone Repository into a new directory
 git config --global user.name username
 git config --global user.email email
 ```
-
-### PI
-```
-Sudo apt-get update          // update pi
-sudo apt install git-all.    // Get all 
-```
-
 
 ### Terminal commands
 
