@@ -4,6 +4,14 @@ This is a file that I use when programming. Its nothing more then a bunch of com
 Awesome Readme main page generator:
 https://rahuldkjain.github.io/gh-profile-readme-generator/
 
+
+
+### Snowflake
+```
+snowsql -a OP06195.ca-central-1.aws -u danielwilczak // SnowSQL login for garbage account
+```
+
+
 ### PI
 ```
 
