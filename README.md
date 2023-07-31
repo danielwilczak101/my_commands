@@ -57,9 +57,10 @@ git status
 git pull
 ```
 
-### If i ever want to me a local git repository.
+### If I ever want to make a local git repository.
+```
 https://bit.ly/3uhuljr
-
+```
 
 ### Python Virtual Env
 ```
