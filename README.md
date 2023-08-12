@@ -11,6 +11,8 @@ https://rahuldkjain.github.io/gh-profile-readme-generator/
 snowsql -a OP06195.ca-central-1.aws -u danielwilczak // SnowSQL login for garbage account
 
 snowsql --noup // If you get an error related to file problems. Only need to run it once.
+
+nano ~/.snowsql/config // To modify defaults information. Mostly for login information.
 ```
 
 
