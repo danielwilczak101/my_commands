@@ -88,6 +88,12 @@ py -m uvicorn main:app --reload // run localhost
 
 ### PyPI Package commands
 ```
+-- With toml
+cd (folder with project toml.)
+python3 -m build
+python3 -m twine upload --skip-existing dist/*
+
+-- With setup.py
 python setup.py bdist_wheel sdist   // Build package for publishing
 twine upload dist/*                 // Upload package to PyPI
 
